@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 5276542,
+      "firstName": "Avis",
+      "lastName": "Dooley",
+      "email": "Christiana.Larkin@hotmail.com"
+    },
+    {
+      "id": 76162862,
+      "firstName": "Kaci",
+      "lastName": "Gutkowski",
+      "email": "Sabrina30@gmail.com"
+    },
+    {
+      "id": 75144859,
+      "firstName": "Gillian",
+      "lastName": "MacGyver",
+      "email": "Bernice.Mertz32@gmail.com"
+    },
+    {
+      "id": 11130629,
+      "firstName": "Madonna",
+      "lastName": "Mueller",
+      "email": "Edyth.McLaughlin@gmail.com"
+    },
+    {
+      "id": 4402730,
+      "firstName": "Brandt",
+      "lastName": "Wehner",
+      "email": "Leonora_Smith86@yahoo.com"
+    }
+  ]
+}
